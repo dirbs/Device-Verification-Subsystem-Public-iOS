@@ -14,9 +14,9 @@ Neither the name of Qualcomm Technologies, Inc. nor the names of its contributor
 
 NO EXPRESS OR IMPLIED LICENSES TO ANY PARTY'S PATENT RIGHTS ARE GRANTED BY THIS LICENSE. THIS SOFTWARE IS PROVIDED BY THE COPYRIGHT HOLDERS AND CONTRIBUTORS "AS IS" AND ANY EXPRESS OR IMPLIED WARRANTIES, INCLUDING, BUT NOT LIMITED TO, THE IMPLIED WARRANTIES OF MERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE ARE DISCLAIMED. IN NO EVENT SHALL THE COPYRIGHT HOLDER OR CONTRIBUTORS BE LIABLE FOR ANY DIRECT, INDIRECT, INCIDENTAL, SPECIAL, EXEMPLARY, OR CONSEQUENTIAL DAMAGES (INCLUDING, BUT NOT LIMITED TO, PROCUREMENT OF SUBSTITUTE GOODS OR SERVICES; LOSS OF USE, DATA, OR PROFITS; OR BUSINESS INTERRUPTION) HOWEVER CAUSED AND ON ANY THEORY OF LIABILITY, WHETHER IN CONTRACT, STRICT LIABILITY, OR TORT (INCLUDING NEGLIGENCE OR OTHERWISE) ARISING IN ANY WAY OUT OF THE USE OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
 
-# DVS Public iOS App
+## DVS Public iOS App
 
-#### Documentation
+### Documentation
 
 [DVS-API-Installation-Guide-1.0.0.pdf](https://github.com/dirbs/Documentation/blob/master/Device-Verification-Subsystem/DVS-API-Installation-Guide-1.0.0.pdf)<br />
 [DVS-SPA-Installation-Guide-Authority-App-1.0.0.pdf](https://github.com/dirbs/Documentation/blob/master/Device-Verification-Subsystem/DVS-SPA-Installation-Guide-Authority-App-1.0.0.pdf)<br />
@@ -30,29 +30,29 @@ NO EXPRESS OR IMPLIED LICENSES TO ANY PARTY'S PATENT RIGHTS ARE GRANTED BY THIS 
 [DVS-Authority-Mobile-App-User-Guide-1.0.0.pdf](https://github.com/dirbs/Documentation/blob/master/Device-Verification-Subsystem/DVS-Authority-Mobile-App-User-Guide-1.0.0.pdf)<br />
 [DVS -Public-Mobile- App-User-Guide-1.0.0.pdf](https://github.com/dirbs/Documentation/blob/master/Device-Verification-Subsystem/DVS%20-Public-Mobile-%20App-User-Guide-1.0.0.pdf)<br />
 
-#### Frontend Application Repos
+### Frontend Application Repos
 
 [Device-Verification-Subsystem-Authority-Frontend](https://github.com/dirbs/Device-Verification-Subsystem-Authority-Frontend)<br />
 [Device-Verification-Subsystem-Public-Frontend](https://github.com/dirbs/Device-Verification-Subsystem-Public-Frontend)<br />
 
-#### Backend Application Repos
+### Backend Application Repos
 
 [Device-Verification-Subsystem](https://github.com/dirbs/Device-Verification-Subsystem)<br />
 
-#### Mobile Application Repos
+### Mobile Application Repos
 
 [Device-Verification-Subsystem-Authority-Android](https://github.com/dirbs/Device-Verification-Subsystem-Authority-Android)<br />
 [Device-Verification-Subsystem-Public-Android](https://github.com/dirbs/Device-Verification-Subsystem-Public-Android)<br />
 [Device-Verification-Subsystem-Authority-iOS](https://github.com/dirbs/Device-Verification-Subsystem-Authority-iOS)<br />
 
-##	System Requirements
-###	Software Requirements
+###	System Requirements
+####	Software Requirements
 -	Xcode 9.4.1
 -	Minimum iOS version 9.0
 -	Mac OS 10.13.4
 
 
-##	reCAPTCHA Configuration
+###	reCAPTCHA Configuration
 For reCAPTCHA configurations go to this [link](https://www.google.com/recaptcha/admin#list):
 1.	In Register a new site section enter label for app e.g. Android DVS Public.
 2.	Select “Invisible” type of reCAPTCHA
@@ -61,7 +61,7 @@ For reCAPTCHA configurations go to this [link](https://www.google.com/recaptcha/
 5.	Click on “Register” button.
 6.	Copy “Site Key”.
 
-##	App Configuration
+###	App Configuration
 - To change any icon open Assets.xcaassets file in Xcode and select your required icon
 -	Open info.plist file and enter API Gateway URL “APIGatewayURL” field
 - Enter the domain name in “ReCaptchaDomain” field which you have mentioned in reCAPTCHA configuration
