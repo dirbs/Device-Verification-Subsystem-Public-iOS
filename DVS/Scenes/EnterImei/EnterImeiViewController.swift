@@ -28,21 +28,7 @@ protocol EnterImeiDataSource: class
 {
     func getImeiStatus()
 }
-//enum APITextEncoding : String
-//{
-//    case iso8859_1 = "iso-8859-1"
-//    // etc.
-//    
-//    var encoding: String.Encoding
-//    {
-//        switch self
-//        {
-//        case .iso8859_1:
-//            return .isoLatin1
-//            // etc.
-//        }
-//    }
-//}
+
 
 class EnterImeiViewController: UIViewController, EnterImeiDisplayLogic, EnterImeiDataSource,UITextFieldDelegate
 {

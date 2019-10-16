@@ -15,7 +15,7 @@ import Foundation
 import Foundation
 
 struct Constants {
-    static var ApiGatewayUrl = "Enter API Gateway URL here"
+    static var apiGatewayUrl = "Enter API Gateway URL here"
    
     
 }
