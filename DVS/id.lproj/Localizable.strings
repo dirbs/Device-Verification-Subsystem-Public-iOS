@@ -1,0 +1,35 @@
+/* 
+  Localizable.strings
+  DVS
+
+  Created by ShamsUlHaq on 28/06/2019.
+  Copyright © 2019 qualcomm. All rights reserved.
+*/
+"Submit" = "Menyerahkan";
+"Dial *#06# to check the IMEI of device" = "Tekan *#06# untuk memeriksa IMEI perangkat";
+"IMEI must be 14 to 16 characters long" = "Panjang IMEI harus 14 hingga 16 karakter";
+"IMEI must contain A-F, a-f and 0-9 only" = "IMEI harus mengandung A-F, a-f dan 0-9 saja";
+"Oops!" = "Ups!";
+"Recaptcha failed" = "Recaptcha gagal";
+"No internet connection" = "Tidak ada koneksi internet";
+"Problem connecting to server. Please try again later" = "Masalah menghubungkan ke server. Silakan coba lagi nanti";
+"Scan Barcode" = "Pindai Kode Batang";
+"Check IMEI Status" = "Periksa Status IMEI";
+"Enter IMEI" = "Masukkan IMEI";
+"Display Status" = "Status Perangkat";
+"IMEI" = "IMEI";
+"Brand" = "Merek";
+"Model Name" = "Nama model";
+"IMEI Compliance Status" = "Status Kepatuhan IMEI";
+"Reason for Non-Compliance" = "Alasan Ketidakpatuhan";
+"Link to Mitigation Help Content" = "Tautan ke Konten Bantuan Mitigasi";
+"Block as of Date" = "Blokir pada Tanggal";
+"OK" = "baik";
+"Place the barcode within the window to scan the barcode of IMEI" = "Tempatkan kode batang di dalam jendela untuk memindai kode batang IMEI";
+"N/A" = "T/A";
+
+"Done" = "Done";
+
+
+"Done" = "Selesai";
+

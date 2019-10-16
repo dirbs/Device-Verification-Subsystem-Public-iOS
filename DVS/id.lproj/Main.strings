@@ -1,0 +1,9 @@
+
+/* Class = "UILabel"; text = "Dial *#06# to check the IMEI of device"; ObjectID = "6ZK-cB-5KF"; */
+"6ZK-cB-5KF.text" = "Dial *#06# to check the IMEI of device";
+
+/* Class = "UIButton"; normalTitle = "Submit"; ObjectID = "fDl-6G-HCb"; */
+"fDl-6G-HCb.normalTitle" = "Submit";
+
+/* Class = "UITextField"; placeholder = "Enter IMEI"; ObjectID = "x3n-wC-sOd"; */
+"x3n-wC-sOd.placeholder" = "Enter IMEI";
