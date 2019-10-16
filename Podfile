@@ -6,12 +6,11 @@ target 'DVS' do
     pod 'Alamofire', '~> 4.7.3'
     pod 'Material', '~> 2.16.2'
     pod 'SwiftyJSON', '~> 4.1.0'
-    pod 'SpreadsheetView'
-    pod 'AeroGearOAuth2'
-    pod "ReCaptcha", '~> 1.0'
+    pod 'ReCaptcha'
     pod 'BarcodeScanner'
-    pod 'NYAlertViewController'
     pod 'DTTextField'
+ pod 'Localize-Swift'
+
     #swift networking library
   use_frameworks!
 
