@@ -22,7 +22,7 @@ class EnterImeiWorker
     
     func getImeiStatus(request: EnterImei.Request, completion: @escaping (_ result: DataResponse<Any>)->())
     {
-        let tykUrl = Constants.ApiGatewayUrl
+        let tykUrl = Constants.apiGatewayUrl
         let apiUrl = tykUrl+"api/v1/basicstatus?imei=\(request.imei)&token="+request.token+"&source=ios"
         Alamofire.request(apiUrl).responseJSON { response in
             completion(response)

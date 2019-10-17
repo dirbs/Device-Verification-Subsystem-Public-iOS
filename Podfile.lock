@@ -25,7 +25,7 @@ DEPENDENCIES:
   - SwiftyJSON (~> 4.1.0)
 
 SPEC REPOS:
-  trunk:
+  https://github.com/cocoapods/specs.git:
     - Alamofire
     - BarcodeScanner
     - DTTextField
@@ -47,4 +47,4 @@ SPEC CHECKSUMS:
 
 PODFILE CHECKSUM: a7bbe5609924debcd4540369707d05861b842a3b
 
-COCOAPODS: 1.8.3
+COCOAPODS: 1.7.5
