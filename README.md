@@ -1,5 +1,5 @@
 # DVS Public iOS App
-##License
+## License
 Copyright (c) 2019 Qualcomm Technologies, Inc.
 
 All rights reserved.
